@@ -3,7 +3,7 @@
 </h1>
  
 <h4 align="center"> 
-	🚀 Desafio Principal - Foodfy Version 2 🚀
+	🚀 Desafio Principal - Foodfy Version 3 🚀
 </h4>
 
 <p align="center">
@@ -17,7 +17,7 @@
   </a>
 	
   
-  <a href="https://github.com/paulobeckman/rocketseat-courses/commits/master">
+  <a href="https://github.com/paulobeckman/foodfy-v3/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/foodfy-v3">
   </a>
 
@@ -99,7 +99,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
 
-# O servidor inciará na porta:5000 - acesse http://localhost:5000
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
 ```
 
 
