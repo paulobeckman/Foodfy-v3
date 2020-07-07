@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/capa.png" width="700px">
+     <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/capa.png" width="700px">
 </h1>
  
 <h4 align="center"> 
@@ -7,9 +7,9 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/foodfy-v2?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/foodfy-v3?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/foodfy-v2">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/foodfy-v3">
 
   	
   <a href="https://www.linkedin.com/in/paulobeckman/">
@@ -18,12 +18,12 @@
 	
   
   <a href="https://github.com/paulobeckman/rocketseat-courses/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/foodfy-v2">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/foodfy-v3">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/paulobeckman/foodfy-v2/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/foodfy-v2?style=social">
+   <a href="https://github.com/paulobeckman/foodfy-v3/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/foodfy-v3?style=social">
   </a>
 </p>
 
@@ -44,17 +44,17 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
-  <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/foodfy2.gif" width="800px">
+  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/foodfy3.gif" width="800px">
 
-  <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/pagina1.png" width="400px">
+  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina1.png" width="400px">
 
-  <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/pagina2.png" width="400px">
+  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina2.png" width="400px">
   
-  <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/pagina3.png" width="400px">
+  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina3.png" width="400px">
   
-  <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/pagina4.png" width="400px">
+  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina4.png" width="400px">
   
-  <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/pagina5.png" width="400px">
+  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina5.png" width="400px">
   
 </p>
 
@@ -66,6 +66,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Java Script][js]
 - [CSS][CSS]
 - [HTML][HTML]
+- [Nunjucks][Nunjucks]
+- [Unsplash Source][API]
 
 
 ## 🚀 Como rodar este projeto
@@ -89,7 +91,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 $ git clone https://github.com/paulobeckman/foodfy-v3.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd rocketseat-courses-v2
+$ cd rocketseat-courses-v3
 
 # Instale as dependências
 $ npm install
@@ -115,3 +117,5 @@ Feito por Paulo Beckman 👋🏽 [Entre em contato!](https://www.linkedin.com/in
 [js]: https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
 [CSS]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [HTML]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+[Nunjucks]: https://www.npmjs.com/package/nunjucks
+[API]: https://source.unsplash.com/
