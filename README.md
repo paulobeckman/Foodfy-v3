@@ -3,13 +3,13 @@
 </h1>
  
 <h4 align="center"> 
-	🚀 Desafio Principal - Foodfy Version 3 🚀
+	🚀 Desafio Principal - Foodfy version 3 🚀
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/foodfy-v3?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/Foodfy-v3?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/foodfy-v3">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/Foodfy-v3">
 
   	
   <a href="https://www.linkedin.com/in/paulobeckman/">
@@ -17,13 +17,13 @@
   </a>
 	
   
-  <a href="https://github.com/paulobeckman/foodfy-v3/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/foodfy-v3">
+  <a href="https://github.com/paulobeckman/Foodfy-v3/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/Foodfy-v3">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/paulobeckman/foodfy-v3/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/foodfy-v3?style=social">
+   <a href="https://github.com/paulobeckman/Foodfy-v3/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/Foodfy-v3?style=social">
   </a>
 </p>
 
@@ -44,17 +44,17 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
-  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/foodfy3.gif" width="800px">
+  <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/foodfy3.gif" width="800px">
 
-  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina1.png" width="400px">
+  <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina1.png" width="400px">
 
-  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina2.png" width="400px">
+  <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina2.png" width="400px">
   
-  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina3.png" width="400px">
+  <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina3.png" width="400px">
   
-  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina4.png" width="400px">
+  <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina4.png" width="400px">
   
-  <img alt="foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina5.png" width="400px">
+  <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina5.png" width="400px">
   
 </p>
 
@@ -88,10 +88,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/paulobeckman/foodfy-v3.git
+$ git clone https://github.com/paulobeckman/Foodfy-v3.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd rocketseat-courses-v3
+$ cd Foodfy-v3
 
 # Instale as dependências
 $ npm install
