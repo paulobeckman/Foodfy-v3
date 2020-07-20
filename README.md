@@ -30,7 +30,15 @@
 
 ## 💻 Sobre o projeto
 
-🍛 Foodfy é um site que nesse projeto está na versão 2 e traz receitas de vários chefes, também traz um espaço para o usuário saber um pouco mais sobre o próprio foodfy.
+🍛 Foodfy é um site que nesse projeto está na versão 3. Nesse site o chefe pode cadastrar, editar, visualizar e deletar a sua receita pela pagina admin. Essa receita cadastrada também será visualizada na página de receitas onde todos todos podem somente visualizar.
+
+- Os items que podem ser cadastrados são: 
+  - Uma url da imagem da receita;
+  - O título da receita;
+  - O autor da receita; 
+  - Ingredientes;
+  - Modo de preparo;
+  - Mais informações.
 
 Na aba receitas apresenta vários cards de receitas que ao serem clicados, o usuário irá ser direcionado para uma página onde encontrado mais detalhes daquela receita como o Ingredientes, Modo de preparo e Informações adicionais, cada tópico desse conta com um botão que permite o usuário esconter ou mostrar o conteudo do tópico.
 
@@ -77,10 +85,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🚀 Como rodar este projeto
 
 Podemos considerar este projeto como sendo divido em duas partes:
-1. Back End (arquivos server.js, data.js e pasta public) 
-2. Front End (pasta views)
+1. Back End (arquivos server.js, data.json, routes.js e pasta public o arquivo script.js) 
+2. Front End (pasta views, pasta public o arquivo styles.css)
 
-💡O Front End presisa que o Back End esteja sendo executado para funcionar.
+💡Ao iniciar tanto o front end quanto o back end iniciarão automaticamente. 
 
 ### Pré-requisitos
 
@@ -88,7 +96,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js][nodejs]. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🧭 Rodando a aplicação web (Front End)
+### 🧭 Rodando a aplicação web (Front End e Back End)
 
 ```bash
 # Clone este repositório
