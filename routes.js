@@ -10,7 +10,7 @@ routes.get("/", function(req, res){
 
     let recipesFiltered = []
 
-    for( let i = 0; i < 6; i++){
+    for( let i = 0; i < 2; i++){
         recipesFiltered.push(data.recipes[i])
     }
     

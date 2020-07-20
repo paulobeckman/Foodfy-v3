@@ -53,9 +53,13 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
   <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina3.png" width="400px">
   
   <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina4.png" width="400px">
-  
+
   <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina5.png" width="400px">
+
+  <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina6.png" width="400px">
   
+  <img alt="Foodfy-v3" title="#foodfy-v3" src="./github-assets/pagina7.png" width="400px">
+
 </p>
 
 ## 🛠 Tecnologias
