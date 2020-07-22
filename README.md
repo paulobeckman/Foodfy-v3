@@ -40,7 +40,7 @@
   - Modo de preparo;
   - Mais informações.
 
-Na aba receitas apresenta vários cards de receitas que ao serem clicados, o usuário irá ser direcionado para uma página onde encontrado mais detalhes daquela receita como o Ingredientes, Modo de preparo e Informações adicionais, cada tópico desse conta com um botão que permite o usuário esconter ou mostrar o conteudo do tópico.
+Na aba receitas apresenta vários cards de receitas que ao serem clicados, o usuário irá ser direcionado para uma página onde encontrado mais detalhes daquela receita como o Ingredientes, Modo de preparo e Informações adicionais, cada tópico desse conta com um botão que permite o usuário esconder ou mostrar o conteúdo do tópico.
 
 
 Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocketseat](rs).
